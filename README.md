@@ -95,7 +95,7 @@ After clicking on the “Record a Clip” icon<br>
 <div align = "center"> 
 
 ![Record Audio](https://github.com/NimitJhunjhunwala/SpeechGuild/blob/master/record%20audio.png)
-</div><br>
+</div>
 
 After successfully recording an audio clip<br>
 <div align = "center">
