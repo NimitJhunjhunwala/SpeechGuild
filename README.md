@@ -1,6 +1,6 @@
 # SpeechGuild: A Speech Emotion Recognition System
 
-<div text-align = "justify">
+<div align = "justify">
 
 A Mini Project performed in Semester 5 in a team of four:<br>
 •	Shruti Jain 1902057 <br>
